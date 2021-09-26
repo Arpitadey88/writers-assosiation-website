@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    color: slategray;
+}
+.author-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.authors-details{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    border-right: 1px solid lightgray;
+    margin-right: 15px;
+    margin-left: 50px;
+}

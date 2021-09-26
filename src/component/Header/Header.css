@@ -1,0 +1,19 @@
+.header{
+    background-color: whitesmoke;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.header img{
+      height: 60px;
+      margin: 0 50px;
+}
+.header nav{
+    margin-top: 18px;
+}
+.header nav a{
+    text-decoration: none;
+    color: slategray;
+    font-size: 18px;
+    font-weight: 500;
+    padding-right: 50px;
+}
