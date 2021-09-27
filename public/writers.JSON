@@ -1,14 +1,14 @@
 [
-    {"name":"Humayun Ahmed","Description":"Writer","books":432, "remuneration": 20000, "image":"https://i.ibb.co/w09hc6K/aithor-1.png","country": "Bangladesh"},
-    {"name":"Imdadul Haque Milon","Description":"Writer","books":284,"remuneration": 20000,"image":"https://i.ibb.co/BwBxhSC/author-2.png","country": "Bangladesh"},
-    {"name":"Qazi Anwar Husain","Description":"Writer","books":270,"remuneration": 20000,"image":"https://i.ibb.co/sJ5r4Ng/author-3.jpg","country": "Bangladesh"},
-    {"name":"Muntassir Mamoon","Description":"Writer","books":274,"remuneration": 20000,"image":"https://i.ibb.co/1bnXTMx/author-4.jpg","country": "Bangladesh"},
-    {"name":"Muhammed Zafar Iqbal","Description":"Writer","books":215,"remuneration": 20000,"image":"https://i.ibb.co/n3hJfR5/author-6.jpg","country": "Bangladesh"},
-    {"name":"Anisul Hoque","Description":"Writer","books":208,"remuneration": 20000,"image":"https://i.ibb.co/9tvqZMx/authors-5.jpg","country": "Bangladesh"}
-    ,{"name":"Selina Hossain","Description":"Writer","books":118,"remuneration": 20000,"image":"https://i.ibb.co/ygK6vVc/author-10.jpg","country": "Bangladesh"},
-    {"name":"Rabeya Khatun","Description":"Writer","books":73,"remuneration": 20000,"image":"https://i.ibb.co/wN63sHC/author-12.jpg","country": "Bangladesh"},
+    {"name":"Humayun Ahmed","Description":"Writer,Novelist,Playwright,Songwriter","books":432, "remuneration": 20000, "image":"https://i.ibb.co/w09hc6K/aithor-1.png","country": "Bangladesh"},
+    {"name":"Imdadul Haque Milon","Description":"Novelist,Dramatist","books":284,"remuneration": 20000,"image":"https://i.ibb.co/BwBxhSC/author-2.png","country": "Bangladesh"},
+    {"name":"Qazi Anwar Husain","Description":"Writer, Translator","books":270,"remuneration": 20000,"image":"https://i.ibb.co/sJ5r4Ng/author-3.jpg","country": "Bangladesh"},
+    {"name":"Muntassir Mamoon","Description":"Writer,Educator","books":274,"remuneration": 20000,"image":"https://i.ibb.co/1bnXTMx/author-4.jpg","country": "Bangladesh"},
+    {"name":"Muhammed Zafar Iqbal","Description":"Author, Physicist, Coluamnist","books":215,"remuneration": 20000,"image":"https://i.ibb.co/n3hJfR5/author-6.jpg","country": "Bangladesh"},
+    {"name":"Anisul Hoque","Description":"Writer,Novelist","books":208,"remuneration": 20000,"image":"https://i.ibb.co/9tvqZMx/authors-5.jpg","country": "Bangladesh"}
+    ,{"name":"Selina Hossain","Description":"Author,Novilist","books":118,"remuneration": 20000,"image":"https://i.ibb.co/ygK6vVc/author-10.jpg","country": "Bangladesh"},
+    {"name":"Rabeya Khatun","Description":"Writer, Novelist","books":73,"remuneration": 20000,"image":"https://i.ibb.co/wN63sHC/author-12.jpg","country": "Bangladesh"},
     {"name":"Shamsur Rahman","Description":"Writer","books":68,"remuneration": 20000,"image":"https://i.ibb.co/wzv3Mcy/author-7.jpg","country": "Bangladesh"},
-    {"name":"Shamsuddin Nawab","Description":"Writer","books":118,"remuneration": 20000,"image":"https://i.ibb.co/4K3hd1L/authors-13.jpg","country": "Bangladesh"},
+    {"name":"Shamsuddin Nawab","Description":"Author","books":118,"remuneration": 20000,"image":"https://i.ibb.co/4K3hd1L/authors-13.jpg","country": "Bangladesh"},
     {"name":"Syed Shamsul Haque","Description":"Writer","books":158,"remuneration": 20000,"image":"https://i.ibb.co/JxMMjjV/author-9.jpg","country": "Bangladesh"},
-    {"name":"Ahsan Habib","Description":"Writer","books":12,"remuneration": 20000,"image":"https://i.ibb.co/FwzvHJt/author-11.jpg","country": "Bangladesh"}
+    {"name":"Ahsan Habib","Description":"Cartoonist","books":12,"remuneration": 20000,"image":"https://i.ibb.co/FwzvHJt/author-11.jpg","country": "Bangladesh"}
 ]

@@ -13,6 +13,7 @@ const AuthorsNew = (props) => {
             <h4>No of Authors</h4>
             <h4>Added Authors: {props.authorsNum.length}</h4>
             <h4>Total: {total}</h4>
+            {/* <h5>Authors Name: {}</h5> */}
         </div>
     );
 };

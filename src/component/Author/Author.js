@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import AddName from '../Add -Name/AddName';
 import AuthorsNew from '../Add-Authors/AuthorsNew';
 import Authorbd from '../Authorbd/Authorbd';
 
@@ -7,6 +8,7 @@ import './Auhtor.css'
 const Author = () => {
     const [authors, setAuthors] = useState([]);
     const [authorsNum, setAuthorsNum] = useState([]);
+    // const [authorsName, setAuthorName] = useState([]);
 
 
     useEffect(() => {
@@ -18,6 +20,9 @@ const Author = () => {
     const handleAddAuthors = (author) => {
         const newAuthorsNum = [...authorsNum, author];
         setAuthorsNum(newAuthorsNum);
+    
+        // const addAuthorsName = [...authorsName, author];
+        // setAuthorName(addAuthorsName);
     }
 
     return (
@@ -32,9 +37,15 @@ const Author = () => {
                              handleAddAuthors={handleAddAuthors}>
                              </Authorbd>)
                     }
+                    {/* {
+                        authors.map(authors=> <AddName>authors={authors}
+                            handleAddAuthors={handleAddAuthors}</AddName>)
+                    } */}
                 </div>
                 <div className="cart-info">
-                     <AuthorsNew authorsNum={authorsNum}></AuthorsNew>
+                     <div className="cart">
+                        <AuthorsNew authorsNum={authorsNum}></AuthorsNew>
+                     </div>
                 </div>
             </div>
         </div>

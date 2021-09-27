@@ -8,10 +8,14 @@
 .name{
     color: rgb(6, 6, 73);
 }
-.books-btn{
+.add-btn{
     background-color: goldenrod;
-    width: 120px;
+    width: 140px;
     height: 25px;
+    margin: 5px;
+    padding-left: 5px;
+    color: rgb(6, 6, 73);;
+    font-weight: bold;
     border: none;
     border-radius: 3px;
 }
